@@ -1,0 +1,6 @@
+{
+  "address": "43:g2:90:0c:0b:h2",
+  "url": "https://hooks.slack.com/services/A0PN9H09L/CCJTTF796/QmXxmyAaOcw6vE9yQ2dC2jBL",
+  "method": "POST",
+  "body": {"channel": "#general", "username": "test", "text": "from dash button"}
+}

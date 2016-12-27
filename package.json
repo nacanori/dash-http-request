@@ -1,0 +1,21 @@
+{
+  "name": "dash-http-request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dash",
+    "button",
+    "iot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dash-button": "^2.0.1",
+    "superagent": "^3.3.1"
+  }
+}
